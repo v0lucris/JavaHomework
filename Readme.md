@@ -22,11 +22,7 @@ public static void main(String[] args) {
 
 }
 
-public String findJewelsInStones(String jewels, String stones){
 
-    return "";
-}
-}
 Не обязательная, но будет не лишним.
 public class Task1 {
 // Напишите программу, которая
